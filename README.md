@@ -12,4 +12,4 @@ Eliminate unnecesary treatment and tests
 Prevent potentially life-threatening mistakes
 Improve the overall quality of care a patient receives when seeking medical assistance
 
-Datasets were stored in HDF5 formats. HDF5 tands for "hierarchical data format version number 5". The HDF format is designed specifically to store and organize large amounts of scientific data and was originally designed by the National Center for Supercomputing Applications.
+Datasets were stored in HDF5 formats. HDF5 stands for "hierarchical data format version number 5". The HDF format is designed specifically to store and organize large amounts of scientific data and was originally designed by the National Center for Supercomputing Applications.
