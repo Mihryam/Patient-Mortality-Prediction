@@ -40,3 +40,17 @@ Labs: Glucose, Creatinine
 Interventions: Intubation, O2
 <li>
 Drugs: Dopamine, epinephrine
+
+Not all measurements were taken for all patients
+
+Dependent variable:
+Alive – 1
+Not alive – 0
+
+1,113,529 observations (rows) containing 265 variables (columns) over the 5000 patients in the training data set
+
+Mean observations per patient encounter = 223
+
+Median observations per patient encounter = 94
+
+
