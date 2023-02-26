@@ -9,17 +9,24 @@ Electronic Health Records (EHRs) contain a wealth of patient medical information
 
 <li>
 Save valuable time when an emergency arises
+<li>
 Eliminate unnecesary treatment and tests
+<li>
 Prevent potentially life-threatening mistakes
+<li>
 Improve the overall quality of care a patient receives when seeking medical assistance
-<\li>
+
   
 Datasets were stored in HDF5 formats. HDF5 stands for "hierarchical data format version number 5". The HDF format is designed specifically to store and organize large amounts of scientific data and was originally designed by the National Center for Supercomputing Applications.
 
 ## EXPLORE THE DATA
+<li>
 Data is an irregular time series of measurements taken over the course of a patient's stay at PICU.
+<li>
 5000 unique patients were encountered in th training set
+<li>
 Each encounter includes multiple observations during the hospital stay
+<li>
 Each observation includes values in some of the 265 measurement variable categories
 
 ### Measurements Include:
