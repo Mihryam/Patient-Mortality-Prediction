@@ -1,6 +1,6 @@
 # Patient-Mortality-Prediction
 A deep neural network model designed to provide an analytic framework that medical professionals can use to predict patient mortality at any time of interest. 
-Such a solution provides essential feedback to clinicians when trying to assess the impact of treatment decisions, or raise early warning signs to flag at-risk patients in a busy hospital care setting.
+This solution provides essential feedback to clinicians when trying to assess the impact of treatment decisions, or raise early warning signs to flag at-risk patients in a busy hospital care setting.
 
 The data used was provided by PICU at Children's Hospital Los Angeles (CHLA).
 
@@ -30,8 +30,13 @@ Each encounter includes multiple observations during the hospital stay
 Each observation includes values in some of the 265 measurement variable categories
 
 ### Measurements Include:
+<li>
 Statistics: Gender, Age, Weight
+<li>
 Vitals: Heart Rate, respiratory Rate
+<li>
 Labs: Glucose, Creatinine
+<li>
 Interventions: Intubation, O2
+<li>
 Drugs: Dopamine, epinephrine
